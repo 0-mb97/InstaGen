@@ -4,6 +4,10 @@
 
 Welcome to InstaGen, your go-to tool for automating the creation of avatars on Instagram! This project contributes to ongoing challenges in social networks during SwordWar, providing a vital tool for avatar generation and account setup. Linked with the [Instagram Signup Research Tool](https://github.com/0-mb97/Instagram_signup_research_tool.git), this project forms a comprehensive suite for research, analysis, and automation of Instagram-related tasks.
 
+**Disclaimer:**
+- This project is intended strictly for research purposes.
+- Any unauthorized or illegal use of this tool is strictly prohibited.
+
 
 ## Features
 
